@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdelsonDantas
+- 👀 I’m interested in Cybersec
+- 🌱 I’m currently learning Bash Script
+- 📫 You can reach me on https://br.linkedin.com/in/adelson-dantas-55a88820a
